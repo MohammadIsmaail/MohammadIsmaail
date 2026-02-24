@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ismaail1/]([(https://www.linkedin.com/in/ismaail1/))
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ismaail1/]([(https://www.linkedin.com/in/ismaail1/)])
 
 - 📫 How to reach me **mohammadismaail687@gmail.com**
 
