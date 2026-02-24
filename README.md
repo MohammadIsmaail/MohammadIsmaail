@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajaz-ahamad-7aa675315](https://www.linkedin.com/in/ajaz-ahamad-7aa675315)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ismaail1/]([(https://www.linkedin.com/in/ismaail1/))
 
 - 📫 How to reach me **mohammadismaail687@gmail.com**
 
