@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749695-8a7bc4d7-6e8f-4c1b-9d5d-9dbb9d6c4f84.gif">
 
-## 🚀 About Me
+## 💫 About Me
 
 - 🌱 Currently learning **Advanced MERN Stack Development**
 - 💻 Passionate about building **modern full-stack web applications**
